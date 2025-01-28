@@ -1,0 +1,26 @@
+{
+  "name": "nodepizza",
+  "version": "1.0.0",
+  "description": "Node-ifying the pizza app",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bolshialex/pizza-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bolshialex/pizza-node/issues"
+  },
+  "homepage": "https://github.com/Bolshialex/pizza-node#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
